@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/Game_724/Game_724_Group_6/LD_PhysGun/Content/PhysicGameMode/SimpleAttachPhysicsGun_Pawn.uasset",
+				"F:/Game_724/Game_724_Group_6/LD_PhysGun/Content/PhysicGameMode/SimplePhysics.umap",
+				"D:/2023_Fall/LD_PhysGun/Content/PhysicGameMode/Inputs/IA_Jump.uasset",
+				"D:/2023_Fall/LD_PhysGun/Content/PhysicGameMode/Inputs/IA_LeftMFire.uasset",
+				"D:/2023_Fall/LD_PhysGun/Content/PhysicGameMode/Inputs/IA_MouseWheelDown.uasset",
+				"D:/2023_Fall/LD_PhysGun/Content/PhysicGameMode/Inputs/IA_MoveForward.uasset",
+				"D:/2023_Fall/LD_PhysGun/Content/PhysicGameMode/Inputs/IMAP_PhysChar.uasset",
+				"D:/2023_Fall/LD_PhysGun/Content/PhysicGameMode/Inputs/IA_Turn.uasset",
+				"D:/2023_Fall/LD_PhysGun/Content/PhysicGameMode/Inputs/IA_LookUp.uasset",
+				"D:/2023_Fall/LD_PhysGun/Content/PhysicGameMode/SimpleAttachPhysicsGun_Pawn.uasset",
+				"D:/2023_Fall/LD_PhysGun/Content/PhysicGameMode/Inputs/IA_RightMFire.uasset",
+				"D:/2023_Fall/LD_PhysGun/Content/PhysicGameMode/Inputs/IA_MoveSide.uasset",
+				"D:/2023_Fall/LD_PhysGun/Content/PhysicGameMode/SimplePhysics.umap"
+			]
+		}
+	]
+}
